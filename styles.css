@@ -1,0 +1,55 @@
+body{
+  background-color: #2b2024;
+  background-image:url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/75/9857a69e4278c28.jpg");
+  background-size:cover;
+  font-family: 'Schoolbell', cursive;
+}
+h1{
+  text-align: center;
+  color: white;
+  font-size: 4rem;
+}
+
+h2{
+  color: white;
+  font-size: 2.5rem;
+}
+.item-text{
+  text-align: center;
+}
+
+.text-box{
+  text-align: center;
+}
+
+.btn{
+  text-align: center;
+}
+
+.text-box{
+  padding-bottom: 10px;
+}
+.task-input{
+  background-color: #2b2024;
+  border: 0;
+  color: white;
+}
+.task-input::placeholder{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: white;
+}
+.submit-button{
+  background-color: inherit;
+  color: white;
+  width:100px;
+  height: 40px;
+  border-radius: 15%;
+}
+.submit-button:hover{
+  background-color: white;
+  color: black;
+}
